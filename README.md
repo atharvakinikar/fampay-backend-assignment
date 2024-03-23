@@ -19,8 +19,8 @@ A step-by-step series of examples that tell you how to get a development environ
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/atharvakinikar/fampay-backend-assignment
+cd fampay-backend-assignment
 ```
 
 2. Create and activate a virtual environment:
